@@ -1,0 +1,37 @@
+body{
+    font-family:verdana, sans-serif;
+    background:orange;
+}
+
+.header{
+    text-align:center;
+    background:gold;
+    padding:30px 0px;
+    font-size:50px;
+    
+}
+
+.recipe-list{
+    text-align:center;
+    background:yellow;
+    padding:20px 10px;
+    font-size:25px;
+}
+li{
+list-style:none;
+padding:5px 0;
+
+}
+li a{
+    text-decoration: none;
+}
+/* ^^^ end of index ^^^*/
+
+.toast-header{
+    text-align:center;
+}
+
+.toast-img{
+    width:400px;
+    margin:;
+}
