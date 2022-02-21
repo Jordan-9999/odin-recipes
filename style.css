@@ -32,6 +32,28 @@ li a{
 }
 
 .toast-img{
+    display:block;
+    margin:auto;
     width:400px;
-    margin:;
+}
+
+.cereal-header{
+    text-align:center;
+}
+.cereal-img{
+    display:block;
+    margin:auto;
+}
+
+.microwave-header{
+    text-align:center;
+}
+.microwave-img{
+    display:block;
+    margin:auto;
+    width:400px;
+}
+
+.description{
+    text-align:center;
 }
